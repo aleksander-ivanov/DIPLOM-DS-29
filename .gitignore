@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 theory/
+thesis/*.docx
+thesis/*.pptx
